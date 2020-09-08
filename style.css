@@ -1,0 +1,167 @@
+ 
+ .encabezado {
+     font-family:'Fredericka the Great';
+     text-align:center;
+     color:rgb(130, 130, 133);
+     font-size: 5vw;
+ }
+
+ .encabezado2 {
+  font-family: 'Oswald', sans-serif;
+  text-align:center;
+  color:rgb(130, 130, 133);
+  font-size: 2vw;
+ }
+   
+ .banner {
+    background-image: url('https://beaverbrookah.com/wp-content/uploads/2019/07/dog-sleeping-on-cat.png');
+    background-position: center center;
+    background-attachment: fixed; 
+   width: 100%;
+   height:350px;
+  }
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    padding-left: 16%;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.4vw;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color:wheat;
+    color: black;
+  }
+
+  table.index {
+  width: 100%;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:50px;
+  }
+
+  .titulo2 {
+    color: black;
+    font-size: 5vw;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1vw;
+  }
+
+  td.saludo {
+    background-color: wheat;
+    color:black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2vw;
+    font-style: italic;
+    width: 50%;
+  }
+
+  h3 {
+    font-family: 'Oswald', sans-serif;
+    color: burlywood;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    text-align: center;
+    margin-top: 10%;
+  }
+     
+  h3 span {
+    display: block;
+    margin: 11px 0 17px 0;
+    font-size: 70px;
+    line-height: 70px;
+    color: grey;
+    text-shadow: 0 13.36px 8.896px #c4b59d,0 -2px 1px #fff;
+    letter-spacing: -4px;
+  }
+
+  .parrafo {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    margin-top: 10%;
+  }
+
+  .separador {
+    border-top: 4px dashed wheat;
+    margin-top: 10%;
+  }  
+
+  div.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  div.container {
+   text-align: center;
+   padding: 10px 20px;
+   font-family: 'Oswald', sans-serif;
+}
+    
+  .banner2 {
+    
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: 5%;
+    margin-bottom: 50px;
+    width: 100%;
+    height:350px;
+    }
+
+aside {
+      background-color: wheat;
+      color:grey;
+      margin-top: 20%;
+      padding: 70px 0;
+      font-size: 20px;
+      text-align: center;
+      width: 100%;
+      letter-spacing: 2px;
+      font-family: 'Oswald', sans-serif;
+    }
+ 
+/*Requisitos*/
+
+ul {
+    background: wheat;
+    padding: 40px;
+    margin: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    margin-top:80px;
+} 
+
+/*Candidatos*/
+
+th {
+    background-color:wheat;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+}
+
+td {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+ }
